@@ -146,15 +146,15 @@ export const educationInfo = [
 			"Lorem ipsum dolor sit amet, consectetur adipiscing elit",
 		],
 	},
-	{
-		schoolName: "Stanford University",
-		subHeader: "Bachelor of Science in Computer Science",
-		duration: "September 2013 - April 2017",
-		desc: "Ranked top 10% in the program. Took courses about Software Engineering, Web Security, Operating Systems, ...",
-		descBullets: [
-			"Lorem ipsum dolorfdg sit amet, consectetur adipiscing elit",
-		],
-	},
+	// {
+	// 	schoolName: "Stanford University",
+	// 	subHeader: "Bachelor of Science in Computer Science",
+	// 	duration: "September 2013 - April 2017",
+	// 	desc: "Ranked top 10% in the program. Took courses about Software Engineering, Web Security, Operating Systems, ...",
+	// 	descBullets: [
+	// 		"Lorem ipsum dolorfdg sit amet, consectetur adipiscing elit",
+	// 	],
+	// },
 ];
 
 export const experience = [
@@ -178,7 +178,7 @@ export const experience = [
 	},
 	{
 		role: "Software Engineer Intern",
-		company: "Airbnb",
+		company: "İlbank",
 		companylogo: "/img/icons/common/airbnbLogo.png",
 		date: "Jan 2015 – Sep 2015",
 		desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
@@ -194,24 +194,24 @@ export const projects = [
 	{
 		name: "lorem ipsum",
 		desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
-		github: "https://github.com/1hanzla100",
+		github: "https://github.com/mustafa130501",
 	},
 	{
 		name: "lorem ipsum",
 		desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
-		github: "https://github.com/1hanzla100",
+		github: "https://github.com/mustafa130501",
 		link: "https://example.com",
 	},
 ];
 
 export const feedbacks = [
 	{
-		name: "Hassan Mehmood",
+		name: "Lorem Ipsum",
 		feedback:
 			"We have been very happy with our new website! It looks professional and very easy to navigate. Our experience with the customer service at Hanzla tauqeer has been great. They handle things very efficiently and are available for any questions we have. They also keep us updated on daily reports so we know how our site is doing. I would recommend that u have choose hanzla web developer services for u.",
 	},
 	{
-		name: "Maheen Altaf",
+		name: "Lorem Ipsum",
 		feedback:
 			"the website is very nice, everything was perfectly made as i need. it just loads in moments, without giving u the chance to wait. the quality is also very amazing. i am using it without any problem. great job",
 	},
