@@ -48,8 +48,8 @@ export const skillsSection = {
 			fontAwesomeClassname: "vscode-icons:file-type-css",
 		},
 		{
-			skillName: "sass",
-			fontAwesomeClassname: "logos:sass",
+			skillName: "java",
+			fontAwesomeClassname: "logos:java",
 		},
 		{
 			skillName: "JavaScript",
@@ -91,10 +91,10 @@ export const skillsSection = {
 		// 	skillName: "aws",
 		// 	fontAwesomeClassname: "logos:aws",
 		// },
-		{
-			skillName: "firebase",
-			fontAwesomeClassname: "logos:firebase",
-		},
+		// {
+		// 	skillName: "firebase",
+		// 	fontAwesomeClassname: "logos:firebase",
+		// },
 		{
 			skillName: "python",
 			fontAwesomeClassname: "logos:python",
