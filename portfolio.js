@@ -67,14 +67,14 @@ export const skillsSection = {
 			skillName: "nodejs",
 			fontAwesomeClassname: "logos:nodejs-icon",
 		},
-		{
-			skillName: "flutter",
-			fontAwesomeClassname: "logos:flutter",
-		},
-		{
-			skillName: "swift",
-			fontAwesomeClassname: "vscode-icons:file-type-swift",
-		},
+		// {
+		// 	skillName: "flutter",
+		// 	fontAwesomeClassname: "logos:flutter",
+		// },
+		// {
+		// 	skillName: "swift",
+		// 	fontAwesomeClassname: "vscode-icons:file-type-swift",
+		// },
 		{
 			skillName: "npm",
 			fontAwesomeClassname: "vscode-icons:file-type-npm",
@@ -87,10 +87,10 @@ export const skillsSection = {
 			skillName: "mongoDB",
 			fontAwesomeClassname: "vscode-icons:file-type-mongo",
 		},
-		{
-			skillName: "aws",
-			fontAwesomeClassname: "logos:aws",
-		},
+		// {
+		// 	skillName: "aws",
+		// 	fontAwesomeClassname: "logos:aws",
+		// },
 		{
 			skillName: "firebase",
 			fontAwesomeClassname: "logos:firebase",
@@ -112,10 +112,6 @@ export const skillsSection = {
 
 export const SkillBars = [
 	{
-		Stack: "Frontend/Design", //Insert stack or technology you have experience in
-		progressPercentage: "90", //Insert relative proficiency in percentage
-	},
-	{
 		Stack: "Backend",
 		progressPercentage: "70",
 	},
@@ -123,6 +119,12 @@ export const SkillBars = [
 		Stack: "Programming",
 		progressPercentage: "60",
 	},
+	{
+		Stack: "Frontend/Design", //Insert stack or technology you have experience in
+		progressPercentage: "50", //Insert relative proficiency in percentage
+	},
+	
+	
 ];
 
 export const educationInfo = [
