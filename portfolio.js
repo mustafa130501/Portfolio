@@ -67,14 +67,14 @@ export const skillsSection = {
 			skillName: "nodejs",
 			fontAwesomeClassname: "logos:nodejs-icon",
 		},
-		// {
-		// 	skillName: "flutter",
-		// 	fontAwesomeClassname: "logos:flutter",
-		// },
-		// {
-		// 	skillName: "swift",
-		// 	fontAwesomeClassname: "vscode-icons:file-type-swift",
-		// },
+		{
+			skillName: ".net core",
+			fontAwesomeClassname: "logos:windows-dotnet",
+		},
+		{
+			skillName: ".net",
+			fontAwesomeClassname: "logos:windows",
+		},
 		{
 			skillName: "npm",
 			fontAwesomeClassname: "vscode-icons:file-type-npm",
