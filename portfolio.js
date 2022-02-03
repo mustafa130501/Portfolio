@@ -2,7 +2,7 @@ import emoji from "react-easy-emoji";
 
 export const greetings = {
 	name: "Mustafa Can",
-	title: "Merhaba ben Mustafa Can",
+	title: "Merhaba benim adım Mustafa Can",
 	description:
 	"JUNİOR FULL STACK DEVELOPER. I am a self-taught developer with a passion for learning and building things. I am currently working on my portfolio and learning new technologies.",
 	resumeLink: "",
