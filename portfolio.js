@@ -69,7 +69,7 @@ export const skillsSection = {
 		},
 		{
 			skillName: ".net core",
-			fontAwesomeClassname: "logos:windows",
+			fontAwesomeClassname: "logos:windows-icon",
 		},
 		// {
 		// 	skillName: ".net",
